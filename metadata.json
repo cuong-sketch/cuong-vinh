@@ -1,0 +1,5 @@
+{
+  "name": "Thái Media - Automation Ai image V2",
+  "description": "Một ứng dụng AI lấy ảnh sản phẩm và ảnh nhân vật, sau đó sử dụng Gemini để tạo ra một cảnh hoàn toàn mới, trong đó nhân vật đang sử dụng sản phẩm với một phông nền phù hợp, được tạo ngẫu nhiên.",
+  "requestFramePermissions": []
+}
